@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/rabbit/authority/auth",
+    "componentName": "Auth"
+  },
+  {
+    "path": "/rabbit/authority/classification",
+    "componentName": "Classification"
+  },
+  {
+    "path": "/rabbit/authority/data",
+    "componentName": "Data"
+  },
+  {
+    "path": "/rabbit/authority/interface",
+    "componentName": "Interface"
+  },
+  {
+    "path": "/rabbit/authority/table",
+    "componentName": "Table"
+  },
+  {
+    "path": "/rabbit/authority/authMode",
+    "componentName": "AuthMode"
+  }
+]

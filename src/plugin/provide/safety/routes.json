@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/rabbit/safety/black",
+    "componentName": "Black"
+  },
+  {
+    "path": "/rabbit/safety/white",
+    "componentName": "White"
+  }
+]

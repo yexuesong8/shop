@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/rabbit/system/authority/rules",
+    "componentName": "AuthorityRules"
+  },
+  {
+    "path": "/rabbit/system/authority/field/:roleId",
+    "componentName": "AuthorityField"
+  },
+  {
+    "path": "/rabbit/system/authority/data/:roleId",
+    "componentName": "AuthorityData"
+  },
+  {
+    "path": "/rabbit/system/dept",
+    "componentName": "Dept"
+  },
+  {
+    "path": "/rabbit/system/menu",
+    "componentName": "Menu"
+  },
+  {
+    "path": "/rabbit/system/role",
+    "componentName": "Role"
+  },
+  {
+    "path": "/rabbit/system/post",
+    "componentName": "Post"
+  },
+  {
+    "path": "/rabbit/system/user",
+    "componentName": "User"
+  },
+  {
+    "path": "/rabbit/system/interface",
+    "componentName": "Interface"
+  },
+  {
+    "path": "/rabbit/system/report",
+    "componentName": "Report"
+  },
+  {
+    "path": "/rabbit/system/report/preview",
+    "componentName": "ReportPreview"
+  },
+  {
+    "path": "/rabbit/system/report/authority",
+    "componentName": "ReportAuthority"
+  },
+  {
+    "path": "/rabbit/system/table",
+    "componentName": "TableManage"
+  },
+  {
+    "path": "/rabbit/system/parameter",
+    "componentName": "Parameter"
+  }
+]

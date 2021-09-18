@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/rabbit/data/dictionary",
+    "componentName": "Dictionary"
+  },
+  {
+    "path": "/rabbit/data/message",
+    "componentName": "DataMessage"
+  },
+  {
+    "path": "/rabbit/data/message/template",
+    "componentName": "MsgTemplate"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/rabbit/service/warning",
+    "componentName": "ServiceWarning"
+  },
+  {
+    "path": "/rabbit/service/status",
+    "componentName": "ServiceStatus"
+  }
+]

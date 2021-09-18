@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/rabbit/log/login",
+    "componentName": "LogLogin"
+  },
+  {
+    "path": "/rabbit/log/operation",
+    "componentName": "LogOperation"
+  }
+]

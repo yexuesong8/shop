@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/rabbit/workflow/instance/initiate",
+    "componentName": "WorkflowInitiate"
+  },
+  {
+    "path": "/rabbit/workflow/instance/pending",
+    "componentName": "WorkflowPending"
+  },
+  {
+    "path": "/rabbit/workflow/instance/processed",
+    "componentName": "WorkflowProcessed"
+  },
+  {
+    "path": "/rabbit/workflow/instance/cc",
+    "componentName": "WorkflowCopySend"
+  },
+  {
+    "path": "/rabbit/workflow/instance/monitor",
+    "componentName": "WorkflowMonitor"
+  },
+  {
+    "path": "/rabbit/workflow/instance/processed",
+    "componentName": "WorkflowProcessed"
+  },
+  {
+    "path": "/rabbit/workflow/type",
+    "componentName": "WorkflowType"
+  },
+  {
+    "path": "/rabbit/workflow/form",
+    "componentName": "WorkflowForm"
+  },
+  {
+    "path": "/rabbit/workflow/template",
+    "componentName": "WorkflowTemplate"
+  }
+]

@@ -1,0 +1,3 @@
+window.injectPlugins = ["rabbit.system|v1.0.17|1631009021672","rabbit.workflow|v1.0.17|1631009021672","rabbit.log|v1.0.17|1631009021672","rabbit.data|v1.0.17|1631009021672","rabbit.service|v1.0.17|1631009021672","rabbit.page|v1.0.17|1631009021672","rabbit.home|v1.0.17|1631009021672","rabbit.notice|v1.0.17|1631009021672","rabbit.safety|v1.0.17|1631009021672","rabbit.authority|v1.0.17|1631009021672","rabbit.plugins|v1.0.17|1631009021672"];
+window.pluginVersion={ rabbit: '1.0.17', };
+window.pluginHash = { rabbit: 1631009021672, };
