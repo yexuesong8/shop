@@ -1,17 +1,17 @@
 .DS_Store
-node_modules/
-dist/
-lib/
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-**/*.log
-*.tgz
-tests/**/coverage/
-tests/e2e/reports
-selenium-debug.log
-*.d.ts
-types
+pnpm-debug.log*
 
 # Editor directories and files
 .idea
@@ -20,4 +20,4 @@ types
 *.ntvs*
 *.njsproj
 *.sln
-*.local
+*.sw?
